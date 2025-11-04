@@ -1,6 +1,2 @@
-\# Hi
-
-
-
-\# Hello
+# Hello
 
